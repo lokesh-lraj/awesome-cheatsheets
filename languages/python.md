@@ -44,8 +44,8 @@
 
 - As of python3.8 there are 35 keywords
 
-| Keyword | Description  | Category |
-|---------- | ---------- | --------- | 
+| Keyword | Description        | Category |
+|---------- | ---------------- | --------- | 
 | True      | Boolean value for not False or 1 | Value Keyword|
 | False     | Boolean Value for not True or 0 | Value Keyword |
 | None      | No Value | Value keyword |
